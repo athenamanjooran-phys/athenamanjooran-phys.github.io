@@ -8,8 +8,8 @@ Welcome to my academic portfolio, featuring research preprints, mathematical mod
 ### Featured Research & Preprints
 
 * **Thermodynamic Waste Heat Optimization in GreenVolt Systems**
-  * *Identifier:* [Zenodo DOI Link / PDF Link]
-  * *Abstract:* Mathematical modeling of thermoelectric generators and $ZT$ optimization using calculus-based heat flux models and entropy balance principles.
+  * *Identifier:* [Read Business Case (PDF)](https://athenamanjooran-phys.github.io/Climate%20Action%20Award%20Business%20Case%20SCHOOL.docx.pdf)
+  * *Abstract:* Educational infrastructure generates substantial unsegregated solid waste while incurring high climate-control energy costs. GreenVolt is an integrated waste-to-energy recovery system combining computer-vision automated classification with on-site aerobic composting and thermoelectric heat harvesting. Primary sorting utilizes optical, infrared, and mass sensors to maximize recycling purity. Exothermic heat from organic decomposition is captured via phase-change storage and Seebeck-effect thermoelectric generators (TEGs). Thermodynamic modeling indicates an annual carbon offset of $2{,}460\text{ kg CO}_2\text{e}$ against an operational footprint of $1{,}396\text{ kg CO}_2\text{e}$ (a 176% net-positive offset ratio). Deployment yields a 30–40% reduction in landfill waste, a 25% improvement in sorting efficiency, and a 10–15% offset in local power demands.
 
 ---
 
