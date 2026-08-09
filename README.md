@@ -16,7 +16,7 @@ Welcome to my academic portfolio, featuring research preprints, mathematical mod
 ### Writing & Technical Analysis
 
 * **Substack Articles:** Analytical essays on applied thermodynamics, renewable energy systems, and materials science.
-  * [Thermodynamic Modeling and Lifecycle Carbon Analysis of Localized Waste Heat Recovery Systems]([https://yourname.substack.com](https://athenamanjooran.substack.com/p/thermodynamic-efficiency-and-carnot?r=61vree&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)) — Evaluates Seebeck thermoelectric efficiency, Stirling cycle conversion limits, and net-positive carbon offset dynamics for decentralized waste recovery.
+  * * [Thermodynamic Modeling and Lifecycle Carbon Analysis of Localized Waste Heat Recovery Systems](https://athenamanjooran.substack.com/p/thermodynamic-efficiency-and-carnot) — Evaluates Seebeck thermoelectric efficiency, Stirling cycle conversion limits, and net-positive carbon offset dynamics for decentralized waste recovery.
   * [Article Title 2](https://yourname.substack.com) — Brief one-line summary of the physical or mathematical focus.
 
 ---
