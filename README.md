@@ -30,6 +30,5 @@ Welcome to my academic portfolio, featuring research preprints, mathematical mod
 
 ### Contact & Profiles
 
-* **LinkedIn:** www.linkedin.com/in/athena-manjooran-699124369
-* **Google Scholar / Zenodo:** [Zenodo Author Page or DOI Link]
-* **Email:** athenamanjooran@gmail.com
+* **LinkedIn:** [linkedin.com/in/athena-manjooran-699124369](https://www.linkedin.com/in/athena-manjooran-699124369)
+* **Email:** [athenamanjooran@gmail.com](mailto:athenamanjooran@gmail.com)
