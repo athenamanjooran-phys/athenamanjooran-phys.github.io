@@ -21,10 +21,11 @@ Welcome to my academic portfolio, featuring research preprints, mathematical mod
 
 ---
 
-### Mentorship & Open-Source Resources
+### Research Focus & Technical Expertise
 
-* **Applied Physics Study Guide:** A calculus-based overview of classical mechanics and thermal physics designed for high school STEM students. [Download PDF](https://athenamanjooran-phys.github.io/study-guide.pdf)
-* **Thermodynamics & Energy Transfer Problem Set:** A structured set of practice problems focusing on real-world heat recovery applications. [Download PDF](https://athenamanjooran-phys.github.io/problem-set.pdf)
+* **Core Domains:** Applied Thermodynamics, Circular Economy, Biofiltration, Lignocellulosic Materials.
+* **Analytical Methods:** Adsorption Isotherm Modeling (Langmuir/Freundlich), Reaction Kinetics, Mass & Energy Balance.
+* **Quantitative Frameworks:** Adsorption Kinetics, Mass Differential Calculations, Process Cost Modeling, Lifecycle Carbon Offsets.
 
 ---
 
