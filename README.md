@@ -24,7 +24,7 @@ Welcome to my academic portfolio, featuring research preprints, mathematical mod
 ### Research Focus & Technical Expertise
 
 * **Core Domains:** Applied Thermodynamics, Circular Economy, Biofiltration, Lignocellulosic Materials.
-* **Analytical Methods:** Adsorption Isotherm Modeling (Langmuir/Freundlich), Reaction Kinetics, Mass & Energy Balance.
+* **Analytical Methods:** Adsorption Isotherm Modeling (Langmuir/Freundlich), Reaction Kinetics, Mass and Energy Balance.
 * **Quantitative Frameworks:** Adsorption Kinetics, Mass Differential Calculations, Process Cost Modeling, Lifecycle Carbon Offsets.
 
 ---
