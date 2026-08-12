@@ -1,1 +1,7 @@
+title: Athena Rose Manjooran
+description: Applied Physics & Clean Energy Research portfolio featuring research preprints, mathematical modeling, and educational resources.
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+google_site_verification: YOUR_VERIFICATION_CODE_HERE
